@@ -1,1 +1,9 @@
-*.docx
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.rar
+*.zip
+data/
+Computer_vision/
